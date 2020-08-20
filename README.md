@@ -1,0 +1,2 @@
+# logicSquareSolution
+Logic Square solutions
